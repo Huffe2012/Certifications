@@ -1,11 +1,12 @@
 # 📜Certifications #
 
 **Security+** 
-[CompTIA Security+ ce certificate.pdf](![Sec+](https://github.com/user-attachments/assets/8ae6cf88-492e-4eba-9163-67b28eac0095)
+[CompTIA Security+ ce certificate.pdf](https://github.com/user-attachments/assets/8ae6cf88-492e-4eba-9163-67b28eac0095)
 
 
 
 **ISC2 CC**
+
 [ISC2 Certificates.pdf](https://github.com/user-attachments/files/20895338/ISC2.Certificates.pdf)
 
 **Google Cybersecurity**
