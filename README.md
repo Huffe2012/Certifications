@@ -1,7 +1,8 @@
 # 📜Certifications #
 
 **Security+** 
-[CompTIA Security+ ce certificate.pdf](https://github.com/user-attachments/assets/8ae6cf88-492e-4eba-9163-67b28eac0095)
+![Sec+](https://github.com/user-attachments/assets/9c40d6e3-948d-423c-a350-e03c451bef10)
+
 
 
 
