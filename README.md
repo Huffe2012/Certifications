@@ -14,4 +14,5 @@
 
 **Google Cybersecurity**
 
-![Google Cyber security](https://github.com/user-attachments/assets/361ca818-6aa1-4071-88f7-4b20755b5518)
+![Google](https://github.com/user-attachments/assets/b689aafa-04cd-43d6-882b-459d2a83528b)
+
