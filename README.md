@@ -9,7 +9,8 @@
 
 **ISC2 CC**
 
-[ISC2 Certificates.pdf](https://github.com/user-attachments/files/20895338/ISC2.Certificates.pdf)
+![Screenshot 2025-06-24 215039](https://github.com/user-attachments/assets/39622123-9eca-4002-b5bb-4cca1201fb92)
+
 
 **Google Cybersecurity**
 
